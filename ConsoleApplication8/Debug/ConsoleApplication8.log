@@ -1,0 +1,27 @@
+﻿  foodPriorities.c
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(19): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(19): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(24): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(24): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(32): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(32): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(39): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(39): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(44): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(44): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(49): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(49): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(58): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(62): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(62): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(68): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(68): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(77): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\nijidori\documents\visual studio 2017\projects\consoleapplication8\consoleapplication8\foodpriorities.c(77): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  ConsoleApplication8.vcxproj -> c:\users\nijidori\documents\visual studio 2017\Projects\ConsoleApplication8\Debug\ConsoleApplication8.exe
+  ConsoleApplication8.vcxproj -> c:\users\nijidori\documents\visual studio 2017\Projects\ConsoleApplication8\Debug\ConsoleApplication8.pdb (Partial PDB)

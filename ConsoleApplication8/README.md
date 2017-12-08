@@ -1,0 +1,1 @@
+This is a program made in C that will tell you how much you spend on groceries on average based on how much you spend during three seperate weeks of grocery buying.
